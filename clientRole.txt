@@ -1,0 +1,7 @@
+1 - desenvolvedor
+2 - responsável
+3 - Gerente
+4 - Caixa
+5 - Repositor
+6 - Estagiário
+7 - Cliente
